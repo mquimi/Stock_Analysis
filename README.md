@@ -8,8 +8,7 @@ While working on this project, I was able to incoporate my excel skills, along w
 ### 2. Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 ###### Stock Performance
  If you take a look at the 2017 and 2018 stocks, you can tell determine that 2018 was not a good year for any stock, eventhough ENPH and RUN are still highlighted green. Based on the images below, you can also make that conclusion. Image A is 2017 stocks analysis and Image B is 2018 stock analysis.
-![alt text](https://github.com/mquimi/Stock_Analysis/blob/main/Resources/2017_Stocks.png)
-![alt text](https://github.com/mquimi/Stock_Analysis/blob/main/Resources/2018_Stocks.png)
+![alt text](https://github.com/mquimi/Stock_Analysis/blob/main/Resources/2017_Stocks.png) ![alt text](https://github.com/mquimi/Stock_Analysis/blob/main/Resources/2018_Stocks.png)
 
 
 
