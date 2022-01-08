@@ -12,7 +12,6 @@ While working on this project, I was able to incoporate my excel skills, along w
 ![alt text](https://github.com/mquimi/Stock_Analysis/blob/main/Resources/2018_Stocks.png)
 
 
-
 ###### Stock Report Execution Time
 For the original code, we were using coding that included nested looping. The nested loop coding seem to have taken longer than the code with individualizing each loop. For example, Image A and C shows the original script report time, while Image B and D shows the refactored script report time. 
 
@@ -24,5 +23,10 @@ For the original code, we were using coding that included nested looping. The ne
 
 ### 3. Summary: In a summary statement, address the following questions.
 - What are the advantages or disadvantages of refactoring code?
+
 Aside from cutting the time of how long the script runs, other advantages for refactoring code are that it makes it easier to read and understand, and you can "modifiy without changing the observable behavior by changing the internal structure." [(StackOverFlow)](https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software)
+
+Accodring to the site [Rotate](https://rotate.cc/should-you-refactor-or-rewrite-your-code/), when you are refactoring, you can't add new functionality. Also, when refactoring, some of the complex functions that were being used may become difficult to manage.
+
 - How do these pros and cons apply to refactoring the original VBA script?
+
