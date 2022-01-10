@@ -30,3 +30,5 @@ Accodring to the site [Rotate](https://rotate.cc/should-you-refactor-or-rewrite-
 
 - How do these pros and cons apply to refactoring the original VBA script?
 
+As mentioned in the results section, one of the pros in applying refactoring to the original vba script was that it cut down on the execution time and eliminated unecessary code. 
+
